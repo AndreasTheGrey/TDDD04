@@ -1,0 +1,8 @@
+<!ELEMENT employments (employment)*>
+
+<!ELEMENT employment  EMPTY>
+<!ATTLIST employment 
+    startDate CDATA ""
+    endDate CDATA ""
+    id CDATA ""
+    personId CDATA "">

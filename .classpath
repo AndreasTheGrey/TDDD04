@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Builder/src"/>
+	<classpathentry kind="src" path="Decorator/src"/>
+	<classpathentry kind="src" path="Factory Method/src"/>
+	<classpathentry kind="src" path="Interpreter/src"/>
+	<classpathentry kind="src" path="Mediator/src"/>
+	<classpathentry kind="src" path="Strategy/src"/>
+	<classpathentry kind="src" path="Visitor/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Visitor/bin"/>
+</classpath>
